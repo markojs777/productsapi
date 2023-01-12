@@ -3,43 +3,50 @@
     "name": "Metal safety razor",
     "imageUrl": "metal-safety-razor.jpg",
     "price": 5.99,
-    "category": "shaving"
+    "category": "shaving",
+    "featured": true
   },
   {
     "name": "Blue cosmetic tube with gold and silver cap",
     "imageUrl": "cosmetic-tube-100ml.jpg",
     "price": 42.99,
-    "category": "skin care"
+    "category": "skin care",
+    "featured": true
   },
   {
     "name": "Beard clipper",
     "imageUrl": "beard clipper.jpg",
     "price": 23.99,
-    "category": "body & hair"
+    "category": "body & hair",
+    "featured": true
   },
   {
     "name": "Everyday plastic razor set (3x razors)",
     "imageUrl": "3x-everyday-razor.jpg",
     "price": 9.99,
-    "category": "shaving"
+    "category": "shaving",
+    "featured": true
   },
   {
     "name": "3 Blade razor",
     "imageUrl": "3-blade-razor.jpg",
     "price": 2.99,
-    "category": "shaving"
+    "category": "shaving",
+    "featured": true
   },
   {
     "name": "Antique razor modernised",
     "imageUrl": "antique-razor-modrnised.jpg",
     "price": 29.99,
-    "category": "shaving"
+    "category": "shaving",
+    "featured": true
   },
   {
     "name": "Beard trimmer manstorm",
     "imageUrl": "beard-trimmer-manstorm.jpg",
     "price": 95.99,
-    "category": "shaving"
+    "category": "shaving",
+    "featured": true
   },
   {
     "name": "Beard trimmer workmans",
