@@ -60,7 +60,7 @@
     "imageUrl": "beard-trimmer-workmans.jpg",
     "price": 60.99,
     "category": "shavers",
-    "id": 0008
+    "id": "0008"
   },
   {
     "name": "Brush for shaving",
