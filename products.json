@@ -4,216 +4,251 @@
     "imageUrl": "metal-safety-razor.jpg",
     "price": 5.99,
     "category": "razors",
-    "featured": true
+    "featured": true,
+    "id": 0001
   },
   {
     "name": "Blue cosmetic tube with gold and silver cap",
     "imageUrl": "cosmetic-tube-100ml.jpg",
     "price": 42.99,
     "category": "skin-care",
-    "featured": true
+    "featured": true,
+    "id": 0002
   },
   {
     "name": "Beard clipper",
     "imageUrl": "beard clipper.jpg",
     "price": 23.99,
     "category": "shavers",
-    "featured": true
+    "featured": true,
+    "id": 0003
   },
   {
     "name": "Everyday plastic razor set (3x razors)",
     "imageUrl": "3x-everyday-razor.jpg",
     "price": 9.99,
     "category": "razors",
-    "featured": true
+    "featured": true,
+    "id": 0004
   },
   {
     "name": "3 Blade razor",
     "imageUrl": "3-blade-razor.jpg",
     "price": 2.99,
     "category": "razors",
-    "featured": true
+    "featured": true,
+    "id": 0005
   },
   {
     "name": "Antique razor modernised",
     "imageUrl": "antique-razor-modrnised.jpg",
     "price": 29.99,
     "category": "razors",
-    "featured": true
+    "featured": true,
+    "id": 0006
   },
   {
     "name": "Beard trimmer manstorm",
     "imageUrl": "beard-trimmer-manstorm.jpg",
     "price": 95.99,
     "category": "shavers",
-    "featured": true
+    "featured": true,
+    "id": 0007
   },
   {
     "name": "Beard trimmer workmans",
     "imageUrl": "beard-trimmer-workmans.jpg",
     "price": 60.99,
-    "category": "shavers"
+    "category": "shavers",
+    "id": 0008
   },
   {
     "name": "Brush for shaving",
     "imageUrl": "brush-for-shaving.jpg",
     "price": 5.99,
-    "category": "equipment"
+    "category": "equipment",
+    "id": 0009
   },
   {
     "name": "Chicago comb model 8",
     "imageUrl": "chicago-comb-model-8.jpg",
     "price": 3.99,
-    "category": "equipment"
+    "category": "equipment",
+    "id": 0010
   },
   {
     "name": "Deodorant for man (manstorm)",
     "imageUrl": "deodorant-man.jpg",
     "price": 7.99,
-    "category": "deodorants"
+    "category": "deodorants",
+    "id": 0011
   },
   {
     "name": "Deodorant natural 30ml",
     "imageUrl": "deodorant-man-2.jpg",
     "price": 8.99,
-    "category": "deodorants"
+    "category": "deodorants",
+    "id": 0012
   },
   {
     "name": "Hair brush for styling",
     "imageUrl": "hair-brush.jpg",
     "price": 2.99,
-    "category": "equipment"
+    "category": "equipment",
+    "id": 0013
   },
   {
     "name": "Hair styling gel 30ml",
     "imageUrl": "hair-styling-gel.jpg",
     "price": 5.99,
-    "category": "hair-gel"
+    "category": "hair-gel",
+    "id": 0014
   },
   {
     "name": "Hand cream (Mansenergy)",
     "imageUrl": "hand-cream-mansenergy.jpg",
     "price": 6.99,
-    "category": "skin-care"
+    "category": "skin-care",
+    "id": 0015
   },
   {
     "name": "Curly hair moisturize & define",
     "imageUrl": "moisturiser-hair.jpg",
     "price": 3.99,
-    "category": "moisturizers"
+    "category": "moisturizers",
+    "id": 0016
   },
   {
     "name": "Scissors original",
     "imageUrl": "scissors-original.jpg",
     "price": 12.99,
-    "category": "equipment"
+    "category": "equipment",
+    "id": 0017
   },
   {
     "name": "Scissors for hair thinning",
     "imageUrl": "thinning-scissors.jpg",
     "price": 10.99,
-    "category": "equipment"
+    "category": "equipment",
+    "id": 0018
   },
   {
     "name": "Universal hair and beard trimmer",
     "imageUrl": "universal-hair-beard-trimmer.jpg",
     "price": 80.99,
-    "category": "shavers"
+    "category": "shavers",
+    "id": 0019
   },
   {
     "name": "Shaving cream natural",
     "imageUrl": "shaving-cream.jpg",
     "price": 8.99,
-    "category": "shaving-creams"
+    "category": "shaving-creams",
+    "id": 0020
   },
   {
     "name": "Shampoo 300ml (Homemans)",
     "imageUrl": "shampoo-1.jpg",
     "price": 6.99,
-    "category": "shampoo"
+    "category": "shampoo",
+    "id": 0021
   },
   {
     "name": "Shampoo 250ml (Mansdot)",
     "imageUrl": "shampoo-2.jpg",
     "price": 7.99,
-    "category": "shampoo"
+    "category": "shampoo",
+    "id": 0022
   },
   {
     "name": "Shampoo 350ml (Manship)",
     "imageUrl": "shampoo-3.jpg",
     "price": 4.99,
-    "category": "shampoo"
+    "category": "shampoo",
+    "id": 0023
   },
   {
     "name": "Shampoo 200ml (Mansdock)",
     "imageUrl": "shampoo-4.jpg",
     "price": 3.99,
-    "category": "shampoo"
+    "category": "shampoo",
+    "id": 0024
   },
   {
     "name": "Shampoo 400ml (Mansline)",
     "imageUrl": "shampoo-5.jpg",
     "price": 6.99,
-    "category": "shampoo"
+    "category": "shampoo",
+    "id": 0025
   },
   {
     "name": "Manskit 30ml",
     "imageUrl": "parfume-1.jpg",
     "price": 210.99,
-    "category": "parfumes"
+    "category": "parfumes",
+    "id": 0026
   },
   {
     "name": "Sparkmans 35ml",
     "imageUrl": "parfume-2.jpg",
     "price": 140.99,
-    "category": "parfumes"
+    "category": "parfumes",
+    "id": 0027
   },
   {
     "name": "Coparfume 20ml",
     "imageUrl": "parfume-3.jpg",
     "price": 100.99,
-    "category": "parfumes"
+    "category": "parfumes",
+    "id": 0028
   },
   {
     "name": "Mansmethod 30ml",
     "imageUrl": "parfume-4.jpg",
     "price": 125.99,
-    "category": "parfumes"
+    "category": "parfumes",
+    "id": 0029
   },
   {
     "name": "Solidmans 50ml",
     "imageUrl": "parfume-5.jpg",
     "price": 150.99,
-    "category": "parfumes"
+    "category": "parfumes",
+    "id": 0030
   },
   {
     "name": "Manset 50ml",
     "imageUrl": "parfume-6.jpg",
     "price": 160.99,
-    "category": "parfumes"
+    "category": "parfumes",
+    "id": 0031
   },
   {
     "name": "Mansgent",
     "imageUrl": "parfume-7.jpg",
     "price": 230.99,
-    "category": "parfumes"
+    "category": "parfumes",
+    "id": 0032
   },
   {
     "name": "Parfumeful",
     "imageUrl": "parfume-8.jpg",
     "price": 170.99,
-    "category": "parfumes"
+    "category": "parfumes",
+    "id": 0033
   },
   {
     "name": "Mansice",
     "imageUrl": "parfume-9.jpg",
     "price": 30.99,
-    "category": "parfumes"
+    "category": "parfumes",
+    "id": 0034
   },
   {
     "name": "Manseon",
     "imageUrl": "parfume-10.jpg",
     "price": 115.99,
-    "category": "parfumes"
+    "category": "parfumes",
+    "id": 0035
   }
 ]
