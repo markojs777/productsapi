@@ -1,5 +1,13 @@
 [
   {
+    "name": "Metal safety razor",
+    "imageUrl": "metal-safety-razor.jpg",
+    "price": 5.99,
+    "category": "razors",
+    "featured": true,
+    "id": "0001"
+  },
+  {
     "name": "Blue cosmetic tube with gold and silver cap",
     "imageUrl": "cosmetic-tube-100ml.jpg",
     "price": 42.99,
