@@ -2,7 +2,7 @@
   {
     "name": "Metal safety razor",
     "imageUrl": "metal-safety-razor.jpg",
-    "price": 5.99,
+    "price": 8.98,
     "category": "razors",
     "featured": true,
     "id": "0001"
@@ -26,7 +26,7 @@
   {
     "name": "Everyday plastic razor set (3x razors)",
     "imageUrl": "3x-everyday-razor.jpg",
-    "price": 9.99,
+    "price": 6.99,
     "category": "razors",
     "featured": true,
     "id": "0004"
@@ -34,7 +34,7 @@
   {
     "name": "3 Blade razor",
     "imageUrl": "3-blade-razor.jpg",
-    "price": 2.99,
+    "price": 3.97,
     "category": "razors",
     "featured": true,
     "id": "0005"
@@ -65,7 +65,7 @@
   {
     "name": "Brush for shaving",
     "imageUrl": "brush-for-shaving.jpg",
-    "price": 5.99,
+    "price": 5.98,
     "category": "equipment",
     "id": "0009"
   },
