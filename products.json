@@ -17,7 +17,7 @@
   },
   {
     "name": "Beard clipper",
-    "imageUrl": "beard clipper.jpg",
+    "imageUrl": "beard-clipper.jpg",
     "price": 23.99,
     "category": "shavers",
     "featured": true,
