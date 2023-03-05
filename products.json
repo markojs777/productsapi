@@ -112,11 +112,11 @@
   },
   {
     "name": "Hair styling gel 30ml",
-    "imageUrl": "hair-gel.jpg",
+    "imageUrl": "hair-styling-gel.jpg",
     "price": 5.99,
     "category": "hair-gel",
     "id": "0014",
-    "link": "hair-gel/hair-styling-gel.html"
+    "link": "hair-gel/hair-gel.html"
   },
   {
     "name": "Hand cream (Mansenergy)",
